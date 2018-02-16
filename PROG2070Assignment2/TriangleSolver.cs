@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace PROG2070Assignment2
 {
+<<<<<<< HEAD
     public class TriangleSolver
+=======
+    class TriangleSolver
+>>>>>>> d8e43394ece147afe5c336fcb3832d1ccd8e2251
     {
         public static string Analyze(int x, int y, int z)
         {
             string analyzedOutput = "test";
+<<<<<<< HEAD
             string triangleString = "not a triangle";
             bool triangleCheck = false;
 
@@ -44,6 +49,18 @@ namespace PROG2070Assignment2
                 analyzedOutput = "Sorry this is not a proper triangle - returning to main menu";
             }
 
+=======
+            int outcome = x + y + z;
+            
+            if (outcome == 3)
+            {
+                analyzedOutput = "this worked!";
+            }
+            else
+            {
+                analyzedOutput = "it still worked!";
+            }
+>>>>>>> d8e43394ece147afe5c336fcb3832d1ccd8e2251
             return analyzedOutput;
         }
     }
