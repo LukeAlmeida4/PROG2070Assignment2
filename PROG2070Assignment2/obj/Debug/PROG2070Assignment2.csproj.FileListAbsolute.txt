@@ -1,0 +1,14 @@
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb

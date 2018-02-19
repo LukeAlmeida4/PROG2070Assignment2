@@ -1,0 +1,19 @@
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.exe.config
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.exe
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.pdb
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.exe
+G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.dll.config
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.dll
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.Tests.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.exe
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.pdb
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\PROG2070Assignment2.exe.config
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2.Tests\obj\Debug\PROG2070Assignment2.Tests.dll
