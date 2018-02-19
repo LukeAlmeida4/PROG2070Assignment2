@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
 using NUnit.Framework;
 
 namespace PROG2070Assignment2.Tests
@@ -10,6 +14,7 @@ namespace PROG2070Assignment2.Tests
     [TestFixture]
     class TriangleSolverTests
     {
+<<<<<<< HEAD
         //Testing the analyze method to see if it will correctly check whether three sides form a proper triangle.
         //Three integers are passed through to the method, and two of the sides added must be greater than the third.
         //This test will check the first two integers added compared to the third length
@@ -111,6 +116,27 @@ namespace PROG2070Assignment2.Tests
         public void AnalyzeMethodTest_WhenInputIsNegative_ThrowsArgumentException()
         {
             Assert.Throws<ArgumentException>(() => TriangleSolver.Analyze(-2, -2, -2));
+=======
+        //naming convention - what is under test, condition, expected bevahiour
+        //arrange, act, assert
+        [Test]
+        public void GetLengthTest_WhenLengthIs1_Returns1()
+        {
+            int result; //Arrange
+
+            result = TriangleSolver.Analyze(1,2,3); //Act
+
+            Assert.AreEqual(1, result); //Assert
+=======
+
+namespace PROG2070Assignment2.Tests
+{
+    class TriangleSolverTests
+    {
+        static void Main(string[] args)
+        {
+>>>>>>> d8e43394ece147afe5c336fcb3832d1ccd8e2251
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
         }
     }
 }

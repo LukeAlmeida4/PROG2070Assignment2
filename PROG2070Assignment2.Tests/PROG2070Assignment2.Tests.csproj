@@ -5,7 +5,11 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2A39FE6D-AAA2-49E2-A18A-13970482D72B}</ProjectGuid>
+<<<<<<< HEAD
     <OutputType>Library</OutputType>
+=======
+    <OutputType>Exe</OutputType>
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
     <RootNamespace>PROG2070Assignment2.Tests</RootNamespace>
     <AssemblyName>PROG2070Assignment2.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -31,6 +35,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+<<<<<<< HEAD
   <PropertyGroup>
     <StartupObject />
   </PropertyGroup>
@@ -38,6 +43,15 @@
     <Reference Include="nunit.framework, Version=3.9.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnit.3.9.0\lib\net45\nunit.framework.dll</HintPath>
     </Reference>
+=======
+  <ItemGroup>
+<<<<<<< HEAD
+    <Reference Include="nunit.framework, Version=3.9.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.9.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+=======
+>>>>>>> d8e43394ece147afe5c336fcb3832d1ccd8e2251
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -53,6 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +78,11 @@
       <Project>{65d31aba-ab8e-4909-8c1c-65ddcdb60b64}</Project>
       <Name>PROG2070Assignment2</Name>
     </ProjectReference>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> d8e43394ece147afe5c336fcb3832d1ccd8e2251
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

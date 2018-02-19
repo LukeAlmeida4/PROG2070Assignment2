@@ -5,6 +5,7 @@ G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug
 G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
 G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
 G:\Visual Studio 2017\Projects\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
+<<<<<<< HEAD
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe.config
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.exe
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
@@ -12,3 +13,5 @@ C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
 C:\Users\Luke\Desktop\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
+=======
+>>>>>>> 21cac3701b1c68bb616a5b16c0b9dd8d7d87b2bd
